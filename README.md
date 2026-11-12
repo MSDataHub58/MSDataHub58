@@ -5,7 +5,7 @@
   <p><b>Web Developer • Data Analyst • Student Builder</b></p>
   
   <p>
-    <a href="https://msdatahub58.github.io"> Portfolio Website</a> •
+    <a href="https://github.com/MSDataHub58/Portfolio"> Portfolio Website</a> •
     <a href="https://github.com/MSDataHub58?tab=repositories"> Projects</a>
   </p>
 </div>
@@ -39,7 +39,7 @@
 
 ###  Featured Projects
 - **[MS-FRIENDS](https://github.com/MSDataHub58/MS-FRIENDS)** — Interactive digital showcase & community hub ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0BK41HFQF9/MSDataHub58/MS-FRIENDS)
-- **[MS-Grandma](https://github.com/MSDataHub58/MS-Grandma)** — Browser-based typing speed test game built with JavaScript
-- **[Sales Data Analysis](https://github.com/MSDataHub58/sales-data-analysis)** — Business intelligence & sales performance insights
-- **[WebDevelopment5](https://github.com/MSDataHub58/WebDevelopment5)** — Multi-page project showcase platform<!--
+- **[MS-Grandma](https://github.com/MSDataHub58/MS-Grandma)** — Browser-based typing speed test game built with JavaScript ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0BK41HFQF9/MSDataHub58/MS-Grandma)
+- **[Sales Data Analysis](https://github.com/MSDataHub58/sales-data-analysis)** — Business intelligence & sales performance insights 
+- **[WebDevelopment5](https://github.com/MSDataHub58/WebDevelopment5)** — Multi-page project showcase platform 
 
