@@ -15,7 +15,6 @@
 ###  About Me
 -  Building interactive web apps, games, and data dashboards
 -  Focusing on **Data Analysis (Power BI, Python)** & **Front-End Web Dev (HTML, CSS, JS)**
--  Currently exploring **Cybersecurity** and leading a student coding community
 -  Fun fact: Turning ideas into live projects on GitHub
 
 ---
