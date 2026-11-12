@@ -5,7 +5,7 @@
   <p><b>Web Developer • Data Analyst • Student Builder</b></p>
   
   <p>
-    <a href="https://github.com/MSDataHub58/Portfolio"> Portfolio Website</a> •
+    <a href="https://msdatahub58.github.io/Portfolio/"> Portfolio Website</a> •
     <a href="https://github.com/MSDataHub58?tab=repositories"> Projects</a>
   </p>
 </div>
