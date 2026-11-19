@@ -13,9 +13,9 @@
 ---
 
 ###  About Me
--  Building interactive web apps, games, and data dashboards
--  Focusing on **Data Analysis (Power BI, Python)** & **Front-End Web Dev (HTML, CSS, JS)**
--  Fun fact: Turning ideas into live projects on GitHub
+-  I love to build new things like games, websites, etc.
+-  Focusing on **Data Analysis (Power BI, Tableau, Excel, Power query, Dax, etc.)** & **Front-End Web Dev (HTML, CSS, JS)**
+-  Fun fact: I love to learn more about tec.
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ###  Featured Projects
-- **[MS-FRIENDS](https://github.com/MSDataHub58/MS-FRIENDS)** — Interactive digital showcase & community hub ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0BK41HFQF9/MSDataHub58/MS-FRIENDS)
+- **[MS-FRIENDS](https://github.com/MSDataHub58/MS-FRIENDS)** — A websites where u can see my gng. ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0BK41HFQF9/MSDataHub58/MS-FRIENDS)
 - **[MS-Grandma](https://github.com/MSDataHub58/MS-Grandma)** — Browser-based typing speed test game built with JavaScript ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0BK41HFQF9/MSDataHub58/MS-Grandma)
 - **[Sales Data Analysis](https://github.com/MSDataHub58/sales-data-analysis)** — Business intelligence & sales performance insights 
-- **[WebDevelopment5](https://github.com/MSDataHub58/WebDevelopment5)** — Multi-page project showcase platform 
+- **[WebDevelopment5](https://github.com/MSDataHub58/WebDevelopment5)** — My portfolio 
 
